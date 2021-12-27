@@ -17,6 +17,20 @@
 **Download:** [[Github](https://github.com/yalesong/hCRF-light/tree/master/data)]
 
 
+## UAV
+### ALFA: A Dataset for UAV Fault and Anomaly Detection
+>  Currently, the dataset includes processed data for 47 autonomous flights with scenarios for eight different types of control surface (actuator and engine) faults, with a total of 66 minutes of flight in normal conditions and 13 minutes of post-fault flight time
+
+**From:** City University of Hong Kong
+
+**Publish date:** 2015.11.03
+
+**Paper:** [[ALFA: A Dataset for UAV Fault and Anomaly Detection](https://arxiv.org/pdf/1907.06268v1.pdf)]
+
+**Project page:** [[Github](https://github.com/castacks/alfa-dataset)]
+
+
+
 
 
 ## References
