@@ -18,11 +18,11 @@
 
 > Energy consumption readings for a sample of 5,567 London Households that took part in the UK Power Networks led Low Carbon London project between November 2011 and February 2014
 
-**From: ** UK Government
+**From:** UK Government
 
-**Publish date: ** 2013
+**Publish date:** 2013
 
-**Project page: ** [[Link](https://innovation.ukpowernetworks.co.uk/)]
+**Project page:** [[Link](https://innovation.ukpowernetworks.co.uk/)]
 
 **Download:** 
 
