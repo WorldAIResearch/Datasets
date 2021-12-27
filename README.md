@@ -6,6 +6,7 @@
 - [Federated Leaning](FederatedLearning/README.md)
 - [Social Media](SocialMedia/README.md)
 - [Energy](Energy/README.md)
+- [Fault Detection](FaultDetection/README.md)
 
 ## Other Resources
 1. [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) 斯坦福大学的大型网络数据集网站
