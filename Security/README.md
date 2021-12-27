@@ -1,34 +1,33 @@
-# Social Media (社交网络) Dataset
+# Security Dataset
 
-## Twitter
+## Anomaly Detection
 
-### SNAP-twitter7
+### DAD
 
-> 467 million Twitter posts from 20 million users covering a 7 month period from June 1 2009 to December 31 2009. We estimate this is about 20-30% of all public tweets published on Twitter during the particular time frame.
+> DAD is a semi-synthetic and labeled dataset consisting of seven days network activity with attacks spread over five days. It has three different types of anomalies: duplication, interception and modification on the MQTT message.
 
-> For each public tweet the following information is available:
->
-> - Author
-> - Time
-> - Content
+**From: ** Centre for Information and Communications Technology Research (CITIC)
 
-**From: ** Stanford University
+**Publish date: ** 2020.07.22
 
-**Publish date: ** 2011.02.09
+**Paper: ** [[sensors](https://www.mdpi.com/1424-8220/20/13/3745)] **Annotated Dataset for Anomaly Detection in a Data Center with IoT Sensors**
 
-**Paper: ** [[WSDM'11](https://dl.acm.org/doi/abs/10.1145/1935826.1935863)] **Patterns of temporal variation in online media**
+**Project page: ** [[Github](https://github.com/dad-repository/dad)]
 
-**Project page: ** [[Link](http://snap.stanford.edu/data/twitter7.html)]
+**Download:** 
 
-**Download:** (Not available now)
+- [[Github](https://github.com/dad-repository/dad)]
+- **Type:** csv, xml, pcap.
 
-| Dataset statistics  |             |
-| ------------------- | ----------- |
-| Number of users     | 17,069,982  |
-| Number of tweets    | 476,553,560 |
-| Number of URLs      | 181,611,080 |
-| Number of Hashtags  | 49,293,684  |
-| Number of re-tweets | 71,835,017  |
+| Date           | Description                                                  |
+| -------------- | ------------------------------------------------------------ |
+| Monday 21st    | there is no attacks                                          |
+| Tuesday 22nd   | some packets have been removed, so packets are not labeled as attack |
+| Wednesday 23rd | a modification of packets is made between 4h and 6h          |
+| Thursday 24th  | insertion of packets in less than 5 minutes at 3h            |
+| Friday 25th    | a mix of interception, duplication and modification is done at 6h and between the 14-16h |
+| Saturday 26th  | a mix of interception, duplication and modification is done at 6h and between the 14-16h |
+| Sunday 27th    | there is no attacks                                          |
 
 
 
