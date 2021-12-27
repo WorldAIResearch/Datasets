@@ -6,13 +6,13 @@
 
 > DAD is a semi-synthetic and labeled dataset consisting of seven days network activity with attacks spread over five days. It has three different types of anomalies: duplication, interception and modification on the MQTT message.
 
-**From: ** Centre for Information and Communications Technology Research (CITIC)
+**From:** Centre for Information and Communications Technology Research (CITIC)
 
-**Publish date: ** 2020.07.22
+**Publish date:** 2020.07.22
 
-**Paper: ** [[sensors](https://www.mdpi.com/1424-8220/20/13/3745)] **Annotated Dataset for Anomaly Detection in a Data Center with IoT Sensors**
+**Paper:** [[sensors](https://www.mdpi.com/1424-8220/20/13/3745)] **Annotated Dataset for Anomaly Detection in a Data Center with IoT Sensors**
 
-**Project page: ** [[Github](https://github.com/dad-repository/dad)]
+**Project page:** [[Github](https://github.com/dad-repository/dad)]
 
 **Download:** 
 
