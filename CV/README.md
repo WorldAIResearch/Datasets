@@ -6,13 +6,13 @@
 
 > The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. 
 
-**From: ** New York University,Google Labs,Microsoft Research
+**From:** New York University,Google Labs,Microsoft Research
 
-**Publish date: ** 1998
+**Publish date:** 1998
 
-**Paper: ** [[Proceedings of the IEEE](https://ieeexplore.ieee.org/abstract/document/726791)] **Gradient-based learning applied to document recognition**
+**Paper:** [[Proceedings of the IEEE](https://ieeexplore.ieee.org/abstract/document/726791)] **Gradient-based learning applied to document recognition**
 
-**Project page: ** [[Link](http://yann.lecun.com/exdb/mnist/)]
+**Project page:** [[Link](http://yann.lecun.com/exdb/mnist/)]
 
 
 
@@ -20,13 +20,13 @@
 
 > The CIFAR-10 and CIFAR-100 are labeled subsets of the [80 million tiny images](http://people.csail.mit.edu/torralba/tinyimages/) dataset
 
-**From: ** New York University, Stanford University
+**From:** New York University, Stanford University
 
-**Publish date: ** 2009.04.08
+**Publish date:** 2009.04.08
 
-**Paper: ** [[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf)] **Learning Multiple Layers of Features from Tiny Images**
+**Paper:** [[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf)] **Learning Multiple Layers of Features from Tiny Images**
 
-**Project page: ** [[Link](http://www.cs.toronto.edu/~kriz/cifar.html)]
+**Project page:** [[Link](http://www.cs.toronto.edu/~kriz/cifar.html)]
 
 #### CIFAR-10
 
@@ -95,13 +95,13 @@
 > 验证集：50,000张图片+标签
 > 测试集：100,000张图片
 
-**From: ** Stanford University, Princeton University
+**From:** Stanford University, Princeton University
 
-**Publish date: ** 2009.06.25
+**Publish date:** 2009.06.25
 
-**Paper: ** [[CVPR'09](https://ieeexplore.ieee.org/abstract/document/5206848)]  **ImageNet: A Large-Scale Hierarchical Image Database**
+**Paper:** [[CVPR'09](https://ieeexplore.ieee.org/abstract/document/5206848)]  **ImageNet: A Large-Scale Hierarchical Image Database**
 
-**Project page: ** [[Link](https://image-net.org/)]
+**Project page:** [[Link](https://image-net.org/)]
 
-**Download: ** [[Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge/data)] Size: 166G
+**Download:** [[Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge/data)] Size: 166G
 

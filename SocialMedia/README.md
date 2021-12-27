@@ -12,13 +12,13 @@
 > - Time
 > - Content
 
-**From: ** Stanford University
+**From:** Stanford University
 
-**Publish date: ** 2011.02.09
+**Publish date:** 2011.02.09
 
-**Paper: ** [[WSDM'11](https://dl.acm.org/doi/abs/10.1145/1935826.1935863)] **Patterns of temporal variation in online media**
+**Paper:** [[WSDM'11](https://dl.acm.org/doi/abs/10.1145/1935826.1935863)] **Patterns of temporal variation in online media**
 
-**Project page: ** [[Link](http://snap.stanford.edu/data/twitter7.html)]
+**Project page:** [[Link](http://snap.stanford.edu/data/twitter7.html)]
 
 **Download:** (Not available now)
 
