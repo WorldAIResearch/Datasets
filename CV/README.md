@@ -117,7 +117,6 @@
 > 1. Original images with character level bounding boxes.
 > 2. MNIST-like 32-by-32 images centered around a single character (many of the images do contain some distractors at the sides).
 
-
 **From:** Stanford University
 
 **Publish date:** 2011
@@ -127,3 +126,44 @@
 **Project page:** [[Link](http://ufldl.stanford.edu/housenumbers/)]
 
 **Download:** [[Link](http://ufldl.stanford.edu/housenumbers/)] 
+
+
+
+
+#### iNaturalist2018 (动物昆虫识别)
+
+> There are a total of 8,142 species in the dataset, with 437,513 training images, and 24,426 validation images. Each image has one ground truth label.
+
+**From:** Amazon AWS
+
+**Publish date:** 2018.02
+
+**Project page:** [[Github](https://github.com/visipedia/inat_comp/tree/master/2018)]
+
+**Download:** [[Github](https://github.com/visipedia/inat_comp/tree/master/2018)] **Size:** 158.38G
+
+## Details
+There are a total of 8,142 species in the dataset, with 437,513 training images, 24,426 validation images, and 149,394 test images.
+
+| Super Category | Category Count | Train Images | Val Images |
+| -------------- | -------------- | ------------ | ---------- |
+| Plantae        | 2,917          | 118,800      | 8,751      |
+| Insecta        | 2,031          | 87,192       | 6,093      |
+| Aves           | 1,258          | 143,950      | 3,774      |
+| Actinopterygii | 369            | 7,835        | 1,107      |
+| Fungi          | 321            | 6,864        | 963        |
+| Reptilia       | 284            | 22,754       | 852        |
+| Mollusca       | 262            | 8,007        | 786        |
+| Mammalia       | 234            | 20,104       | 702        |
+| Animalia       | 178            | 5,966        | 534        |
+| Amphibia       | 144            | 11,156       | 432        |
+| Arachnida      | 114            | 4,037        | 342        |
+| Chromista      | 25             | 621          | 75         |
+| Protozoa       | 4              | 211          | 12         |
+| Bacteria       | 1              | 16           | 3          |
+|                |                |              |            |
+| Total          | 8,142          | 437,513      | 24,426     |
+
+![](https://github.com/visipedia/inat_comp/raw/master/2018/assets/inat_2018_banner.jpg)
+
+![](https://github.com/visipedia/inat_comp/raw/master/2018/assets/train_val_distribution.png)
