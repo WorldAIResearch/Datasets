@@ -105,3 +105,25 @@
 
 **Download:** [[Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge/data)] Size: 166G
 
+
+
+#### SVHN (Street View House Number)
+
+> SVHN is a real-world image dataset . It can be seen as similar in flavor to MNIST (e.g., the images are of small cropped digits), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly harder, unsolved, real world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images.
+>
+> Dateset 来源于谷歌街景门牌号码，每张图片中包含一组 ‘0-9’ 的阿拉伯数字。图片如下图所示,训练集中包含 73257 个数字，测试集中包含 26032 个数字，另有 531131 个附加数字。
+> 10 classes, 1 for each digit. Digit '1' has label 1, '9' has label 9 and '0' has label 10. 73257 digits for training, 26032 digits for testing, and 531131 additional, somewhat less difficult samples, to use as extra training data
+>Comes in two formats:
+> 1. Original images with character level bounding boxes.
+> 2. MNIST-like 32-by-32 images centered around a single character (many of the images do contain some distractors at the sides).
+
+
+**From:** Stanford University
+
+**Publish date:** 2011
+
+**Paper:** [[NeurIP'09](https://research.google/pubs/pub37648/)]  **Reading Digits in Natural Images with Unsupervised Feature Learning**
+
+**Project page:** [[Link](http://ufldl.stanford.edu/housenumbers/)]
+
+**Download:** [[Link](http://ufldl.stanford.edu/housenumbers/)] 
