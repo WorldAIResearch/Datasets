@@ -142,7 +142,7 @@
 
 **Download:** [[Github](https://github.com/visipedia/inat_comp/tree/master/2018)] **Size:** 158.38G
 
-## Details
+**Details**
 There are a total of 8,142 species in the dataset, with 437,513 training images, 24,426 validation images, and 149,394 test images.
 
 | Super Category | Category Count | Train Images | Val Images |
