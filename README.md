@@ -12,3 +12,4 @@
 ## Other Resources
 1. [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) 斯坦福大学的大型网络数据集网站
 1. [Link](https://blog.csdn.net/qq_27825451/article/details/104775341) 深度学习-各类数据集汇总
+1. [Link](https://gas.graviti.cn/open-datasets) 格物钛 - 国内公开数据集下载平台   CV的

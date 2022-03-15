@@ -15,7 +15,6 @@
 **Project page:** [[Link](http://yann.lecun.com/exdb/mnist/)]
 
 
-
 ### CIFAR
 
 > The CIFAR-10 and CIFAR-100 are labeled subsets of the [80 million tiny images](http://people.csail.mit.edu/torralba/tinyimages/) dataset
